@@ -1,0 +1,2 @@
+reverse.o: reverse.cpp reverse.h
+main.o: main.cpp reverse.h
